@@ -20,11 +20,7 @@ Given a dataset of speech recordings and pre-extracted acoustic features, the go
 * Optimize hyperparameters
 * Minimize **Root Mean Square Error (RMSE)**
 
-The evaluation metric used in the competition platform (DSLE) is:
-
-[
-RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-]
+The evaluation metric used is RMSE
 
 ---
 
