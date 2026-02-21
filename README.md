@@ -20,8 +20,6 @@ Given a dataset of speech recordings and pre-extracted acoustic features, the go
 * Optimize hyperparameters
 * Minimize **Root Mean Square Error (RMSE)**
 
-The evaluation metric used is RMSE
-
 ---
 
 ## 📂 Repository Structure
